@@ -1,8 +1,6 @@
 # BodyFat-Predictions
 
-
-https://github.com/engalejandrovargas/BodyFat-Predictions/assets/77429377/13bb7647-6cca-4b50-9a79-6da2b5aabf03
-
+https://github.com/engalejandrovargas/BodyFat-Predictions/assets/77429377/a89e49eb-359f-4f6b-8246-58a2d3d1ddee
 
 ## Context
 Lists estimates of the percentage of body fat determined by underwater
