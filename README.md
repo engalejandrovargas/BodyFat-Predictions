@@ -1,13 +1,13 @@
 # BodyFat-Predictions
 
-Context
+## Context
 Lists estimates of the percentage of body fat determined by underwater
 weighing and various body circumference measurements for 252 men.
 
-Educational use of the dataset
+## Educational use of the dataset
 This data set can be used to illustrate multiple regression techniques. Accurate measurement of body fat is inconvenient/costly and it is desirable to have easy methods of estimating body fat that are not inconvenient/costly.
 
-Content
+## Content
 The variables listed below, from left to right, are:
 
 Density determined from underwater weighing
@@ -29,7 +29,7 @@ Wrist circumference (cm)
 
 These data are used to produce the predictive equations for lean body weight given in the abstract "Generalized body composition prediction equation for men using simple measurement techniques", K.W. Penrose, A.G. Nelson, A.G. Fisher, FACSM, Human Performance Research Center, Brigham Young University, Provo, Utah 84602 as listed in Medicine and Science in Sports and Exercise, vol. 17, no. 2, April 1985, p. 189. (The predictive equation were obtained from the first 143 of the 252 cases that are listed below).
 
-More details
+## More details
 A variety of popular health books suggest that the readers assess their health, at least in part, by estimating their percentage of body fat. In Bailey (1994), for instance, the reader can estimate body fat from tables using their age and various skin-fold measurements obtained by using a caliper. Other texts give predictive equations for body fat using body circumference measurements (e.g. abdominal circumference) and/or skin-fold measurements. See, for instance, Behnke and Wilmore (1974), pp. 66-67; Wilmore (1976), p. 247; or Katch and McArdle (1977), pp. 120-132).
 
 The percentage of body fat for an individual can be estimated once body density has been determined. Folks (e.g. Siri (1956)) assume that the body consists
@@ -65,7 +65,7 @@ c.f. = Water correction factor (=1 at 39.2 deg F as one-gram of water occupies e
 LV = Residual Lung Volume (liters)
 (Katch and McArdle (1977), p. 115). Other methods of determining body volume are given in Behnke and Wilmore (1974), p. 22 ff.
 
-Source
+## Source
 The data were generously supplied by Dr. A. Garth Fisher who gave permission to freely distribute the data and use for non-commercial purposes.
 
 Roger W. Johnson
@@ -77,7 +77,7 @@ Rapid City, SD 57701
 email address: rwjohnso@silver.sdsmt.edu
 web address: http://silver.sdsmt.edu/~rwjohnso
 
-References
+## References
 Bailey, Covert (1994). Smart Exercise: Burning Fat, Getting Fit, Houghton-Mifflin Co., Boston, pp. 179-186.
 
 Behnke, A.R. and Wilmore, J.H. (1974). Evaluation and Regulation of Body Build and Composition, Prentice-Hall, Englewood Cliffs, N.J.
